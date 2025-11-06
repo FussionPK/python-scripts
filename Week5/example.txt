@@ -1,0 +1,6 @@
+101 Smith 150.75
+202 Johnson 89.34
+303 Williams 452.00
+404 Brown -23.45
+505 Davis 320.89
+369 Ryan Was here 420
