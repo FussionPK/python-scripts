@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyPython workspace
 
 This repository contains a collection of small Python exercises and coursework organized by week. It includes example scripts, notebooks, and sample data files.
@@ -33,7 +32,3 @@ Notes
 - I included a `.gitignore` to ignore virtualenvs, caches and some generated text files.
 
 If you want, I can continue and run the git commands from this session once `git` (and optionally `gh`) are available and you confirm the repo name and visibility (public/private).
-=======
-# python-scripts
-Very Self Explanatory
->>>>>>> b99f17d8ca3aea902926313bff5fdb9363e11317
