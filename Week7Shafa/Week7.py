@@ -1,5 +1,5 @@
 cylinder_radius = int(input("Enter the radius of the cylinder: "))
-cylinder_height = int(input("Enter the height of the cylinder: "))
+cylinder_size = int(input("Enter the height of the cylinder: "))
 
 volume = 3.14 * (cylinder_radius*cylinder_radius) * cylinder_height
 
